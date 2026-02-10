@@ -27,12 +27,18 @@ pip install -r requirements.txt
 
 ## 📂 Project Structure
 
+
 cat-study-material-downloader/
+
 │
 ├── cat_auto_downloader.py # Main downloader & password remover
+
 ├── scrape_cat_links.py # Extracts links after login
+
 ├── links.txt # Optional sample list of URLs
+
 ├── requirements.txt
+
 └── README.md
 
 ## 📁 Output Folders
