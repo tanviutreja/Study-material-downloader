@@ -19,9 +19,11 @@ Automates extraction, download, and password removal of study material PDFs from
 
 ## ⚙ Installation
 
-```bash
+bash
 pip install -r requirements.txt
 
+
+---
 
 ## 📂 Project Structure
 
