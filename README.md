@@ -4,7 +4,7 @@ Automates extraction, download, and password removal of study material PDFs from
 
 ## ✨ Features
 - Extracts material links automatically after login
-- Bulk PDF downloading
+- Bulk PDF downloading automatically
 - Converts viewer links to direct PDFs
 - Removes password protection
 - Progress tracking with download summary
